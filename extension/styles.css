@@ -1,0 +1,23 @@
+/* Styles for the injected checkboxes */
+.rule-checkbox {
+  margin-right: 10px;
+}
+
+/* Styles for the bulk action button */
+.bulk-action-button {
+  background-color: #007dc1;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  cursor: pointer;
+}
+
+/* Styles for the bulk action button on hover */
+.bulk-action-button:hover {
+  background-color: #005c91;
+}
